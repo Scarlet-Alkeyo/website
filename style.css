@@ -1,0 +1,165 @@
+#navbar{
+    display: flex;
+    flex: auto;
+    gap: 10%;
+}
+#button{
+    padding: 10px;
+    border-radius: 5px,0px,5px,0px;
+    background-color: black;
+    margin: 10%;
+    margin-top: 1%;
+
+}
+#div2{
+
+    display: flex;
+    flex: auto;
+    gap: 10%;
+
+}
+#shoe{
+    
+    position: relative;
+}
+#emb{
+    position: absolute;
+    top: 10px;
+    left: 16px;
+    text-align: center;
+}
+#button1{
+    background-color: black; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    position: relative;
+    
+
+}
+#h1{
+    text-align: center;
+}
+#row1{
+    display: flex;
+    flex: auto;
+    width: 250px;
+    height: 200px;
+    gap: 20%;
+    
+}
+#row2{
+    display: flex;
+    flex: auto;
+    width: 300px;
+    height: 200px;
+    gap: 50%;
+
+
+}
+#container{
+    border: 1px solid;
+    padding: 10px;
+  margin-left: 80px;
+  margin-right: 80px;
+}
+#price{
+    display: flex;
+    flex: auto;
+    gap: 20%;
+}
+#price2{
+    display: flex;
+    flex: auto;
+    gap: 20%;
+
+
+}
+button{
+
+    background-color: black; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    display: flex;
+    flex: auto;
+
+
+    
+
+
+}
+#white2{
+    display: flex;
+    flex: auto;
+}
+#design{
+    display: flex;
+    flex: auto;
+    gap: 20%;
+    
+
+} 
+#thirdbutton{
+    display: flex;
+    flex: auto;
+}
+
+#three shoe{
+    gap: 40%;
+}
+#explore{
+    text-align: center;
+}
+#shoe4{
+    
+    display: flex;
+    flex: auto;
+    width: 200px;
+    height: 250px;
+    gap: 20%;
+}
+#price3{
+
+    display: flex;
+    flex: auto;
+    gap: 20%;
+}
+#button4{
+    background-color: black; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+margin: 1%;
+position: relative;
+border: 3px solid;
+    
+}
+#footer{
+    display: flex;
+    flex: auto;
+    gap: 5%;
+    background-color: black;
+    color: white;
+}
+#icons{
+  display: flex; 
+  flex: auto; 
+  background-color: black;
+}
+
+@media only screen and(width:800px){
+    body{
+        
+    }    
+}
+
